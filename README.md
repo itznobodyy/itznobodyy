@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👤 Nobody
 
-<!--
-**itznobodyy/itznobodyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola! Soy **Nobody**, un dev apasionado por crear proyectos web, plugins y herramientas de programación divertidas y útiles.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Proyectos destacados
+
+- **[SpeedWifi](https://ikecxyy.github.io/SpeedWifi/)** – Página web de prueba de velocidad de internet en vivo.  
+- Plugins y scripts para **PocketMine** y **Roblox**.  
+- Juegos y sistemas personalizados en **Minecraft**.
+
+---
+
+## 🛠 Tecnologías que uso
+
+- **PHP** (PocketMine plugins)  
+- **Lua** (Roblox scripting)  
+- **HTML, CSS, JavaScript** (web y herramientas)  
+- Git y GitHub para versionado
+
+---
+
+## 📬 Contacto
+
+- Discord: `Nobody#XXXX`  
+- GitHub: [Nobody](https://github.com/nobody)  
+
+---
+
+## ⚡ Nota
+
+Mis proyectos se enfocan en **diversión y aprendizaje**, algunos son experimentales y otros ya en producción.  
