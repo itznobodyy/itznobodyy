@@ -1,33 +1,31 @@
-# 👤 Nobody
+# 👋 Hi, I'm Nobody
 
-Hola! Soy **Nobody**, un dev apasionado por crear proyectos web, plugins y herramientas de programación divertidas y útiles.  
-
----
-
-## 🔹 Proyectos destacados
-
-- **[SpeedWifi](https://ikecxyy.github.io/SpeedWifi/)** – Página web de prueba de velocidad de internet en vivo.  
-- Plugins y scripts para **PocketMine** y **Roblox**.  
-- Juegos y sistemas personalizados en **Minecraft**.
+Soy un desarrollador que disfruta creando proyectos web, scripts y plugins para diferentes plataformas. Me gusta aprender haciendo y experimentar con nuevas ideas.
 
 ---
 
-## 🛠 Tecnologías que uso
+## 🛠 Lenguajes que uso
 
-- **PHP** (PocketMine plugins)  
-- **Lua** (Roblox scripting)  
-- **HTML, CSS, JavaScript** (web y herramientas)  
-- Git y GitHub para versionado
+- PHP  
+- Python  
+- JavaScript  
+- HTML  
+
+---
+
+## 🌟 Proyectos destacados
+
+- **SpeedWifi** – Página web para medir la velocidad de internet en tiempo real  
+- Plugins y scripts para **Minecraft / PocketMine**  
+- Scripts y proyectos para **Roblox**  
 
 ---
 
 ## 📬 Contacto
 
 - Discord: `Nobody#XXXX`  
-- GitHub: [Nobody](https://github.com/nobody)  
+- GitHub: [Nobody](https://github.com/Nobody)  
 
 ---
 
-## ⚡ Nota
-
-Mis proyectos se enfocan en **diversión y aprendizaje**, algunos son experimentales y otros ya en producción.  
+Me gusta mantener mis proyectos simples, funcionales y divertidos de usar. 🚀
