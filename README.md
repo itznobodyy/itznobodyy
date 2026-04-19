@@ -25,5 +25,3 @@ Soy un desarrollador que disfruta creando proyectos web, scripts y plugins para 
 
 - Discord: `itznobodyy`  
 - GitHub: [Nobody](https://github.com/Nobody)  
-
----
