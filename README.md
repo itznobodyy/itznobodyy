@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Nobody
 
-Soy un desarrollador que disfruta creando proyectos web, scripts y plugins para diferentes plataformas. Me gusta aprender haciendo y experimentar con nuevas ideas.
+Im'a desarrollador que disfruta creando proyectos web, scripts and plugins for diferents plataformas. I like aprender haciendo y experimentar with new ideas.
 
 ---
 
-## 🛠 Lenguajes que uso
+## 🛠 Lenguajes
 
 - PHP  
 - Python  
@@ -17,7 +17,6 @@ Soy un desarrollador que disfruta creando proyectos web, scripts y plugins para 
 
 - **SpeedWifi** – Página web para medir la velocidad de internet en tiempo real  
 - Plugins y scripts para **Minecraft / PocketMine**  
-- Scripts y proyectos para **Roblox**  
 
 ---
 
