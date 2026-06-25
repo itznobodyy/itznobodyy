@@ -9,14 +9,7 @@ Im'a desarrollador que disfruta creando proyectos web, scripts and plugins for d
 - PHP  
 - Python  
 - JavaScript  
-- HTML  
-
----
-
-## 🌟 Proyectos destacados
-
-- **SpeedWifi** – Página web para medir la velocidad de internet en tiempo real  
-- Plugins y scripts para **Minecraft / PocketMine**  
+- HTML
 
 ---
 
